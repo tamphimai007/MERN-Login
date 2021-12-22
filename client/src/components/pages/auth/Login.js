@@ -89,7 +89,7 @@ const Login = () => {
               <label>Password</label>
               <input
                 className="form-control"
-                type="text"
+                type="password"
                 name="password"
                 onChange={handleChange}
               />
